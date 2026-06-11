@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 84500201}
   - component: {fileID: 84500200}
   m_Layer: 5
-  m_Name: setting
+  m_Name: credits
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -211,7 +211,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: configuracion
+          m_StringArgument: creditos
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &84500201
@@ -336,7 +336,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 23.8
+  m_fontSize: 21.8
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -473,7 +473,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 23.9
+  m_fontSize: 21.55
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -701,7 +701,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 23.8
+  m_fontSize: 21.7
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
