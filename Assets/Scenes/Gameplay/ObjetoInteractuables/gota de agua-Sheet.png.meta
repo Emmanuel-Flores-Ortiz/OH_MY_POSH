@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 5513b5222b8888a46bbf5957424f0dac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6694277459178457881
+    second: gota de agua-Sheet_0
+  - first:
+      213: 6818214087856862341
+    second: gota de agua-Sheet_1
+  - first:
+      213: 3813260976448003032
+    second: gota de agua-Sheet_2
+  - first:
+      213: 8721947819339734597
+    second: gota de agua-Sheet_3
+  - first:
+      213: -2363784833784263956
+    second: gota de agua-Sheet_4
+  - first:
+      213: 4384734618077758435
+    second: gota de agua-Sheet_5
+  - first:
+      213: 7370169339806302358
+    second: gota de agua-Sheet_6
+  - first:
+      213: 8822533719814210300
+    second: gota de agua-Sheet_7
+  - first:
+      213: 981723421322981395
+    second: gota de agua-Sheet_8
+  - first:
+      213: -4217040725143854104
+    second: gota de agua-Sheet_9
+  - first:
+      213: 7706411122261924432
+    second: gota de agua-Sheet_10
+  - first:
+      213: -2581297901869133527
+    second: gota de agua-Sheet_11
+  - first:
+      213: 6097672926121936877
+    second: gota de agua-Sheet_12
+  - first:
+      213: -4131290531494516986
+    second: gota de agua-Sheet_13
+  - first:
+      213: 8440189130176799725
+    second: gota de agua-Sheet_14
+  - first:
+      213: -6995176374440642000
+    second: gota de agua-Sheet_15
+  - first:
+      213: 732287827033527645
+    second: gota de agua-Sheet_16
+  - first:
+      213: 1276943565150060309
+    second: gota de agua-Sheet_17
+  - first:
+      213: -8066808621009320422
+    second: gota de agua-Sheet_18
+  - first:
+      213: 1529235328602655379
+    second: gota de agua-Sheet_19
+  - first:
+      213: -6702341471869340608
+    second: gota de agua-Sheet_20
+  - first:
+      213: -6382172944096888486
+    second: gota de agua-Sheet_21
+  - first:
+      213: -6387680385943905118
+    second: gota de agua-Sheet_22
+  - first:
+      213: 3053086029676075244
+    second: gota de agua-Sheet_23
+  - first:
+      213: 3674063153614873726
+    second: gota de agua-Sheet_24
+  - first:
+      213: 6172132240119372513
+    second: gota de agua-Sheet_25
+  - first:
+      213: 1311690938059319142
+    second: gota de agua-Sheet_26
+  - first:
+      213: 5877439525227140471
+    second: gota de agua-Sheet_27
+  - first:
+      213: -2095206772694084946
+    second: gota de agua-Sheet_28
+  - first:
+      213: -2742421527305008049
+    second: gota de agua-Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gota de agua-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 324
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b8c3e91e9d6ec50800000000000000
+      internalID: 6694277459178457881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 7459
+        y: 329
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584b545a6992f9e50800000000000000
+      internalID: 6818214087856862341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 329
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbda0197ac6be430800000000000000
+      internalID: 3813260976448003032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 8484
+        y: 329
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54edc31b4559a0970800000000000000
+      internalID: 8721947819339734597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 289
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea45d0b736223fd0800000000000000
+      internalID: -2363784833784263956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 289
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e302e067e4b9dc30800000000000000
+      internalID: 4384734618077758435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 289
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69041a937f9184660800000000000000
+      internalID: 7370169339806302358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 289
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf28e64acafef6a70800000000000000
+      internalID: 8822533719814210300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4429
+        y: 289
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31033a31048cf9d00800000000000000
+      internalID: 981723421322981395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 6424
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3e176adcf0a75c0800000000000000
+      internalID: -4217040725143854104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 6449
+        y: 314
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a9a8bd51ca2fa60800000000000000
+      internalID: 7706411122261924432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 6469
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92111ab0c336d2cd0800000000000000
+      internalID: -2581297901869133527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 7404
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7c30e28394f9450800000000000000
+      internalID: 6097672926121936877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 7419
+        y: 304
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607a55e6625baa6c0800000000000000
+      internalID: -4131290531494516986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 7459
+        y: 304
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de32d4dbb43912570800000000000000
+      internalID: 8440189130176799725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 8454
+        y: 314
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ab24446242cee90800000000000000
+      internalID: -6995176374440642000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 8464
+        y: 314
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d551dab16eb992a00800000000000000
+      internalID: 732287827033527645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 8479
+        y: 309
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f7dfe286d98b110800000000000000
+      internalID: 1276943565150060309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 5429
+        y: 289
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a164ea98c40fc0090800000000000000
+      internalID: -8066808621009320422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 6419
+        y: 299
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ac65bdd6fe83510800000000000000
+      internalID: 1529235328602655379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 289
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044fbdd11ff7cf2a0800000000000000
+      internalID: -6702341471869340608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 6464
+        y: 294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59fef38587fd67a0800000000000000
+      internalID: -6382172944096888486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 7419
+        y: 294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac551948866a57a0800000000000000
+      internalID: -6387680385943905118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 7434
+        y: 294
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8dc8b619dbe5a20800000000000000
+      internalID: 3053086029676075244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 7489
+        y: 299
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74e091e8f4ecf230800000000000000
+      internalID: 3674063153614873726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6429
+        y: 284
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea1d0f2291d7a550800000000000000
+      internalID: 6172132240119372513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 6449
+        y: 284
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667ef1265ff043210800000000000000
+      internalID: 1311690938059319142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 7439
+        y: 284
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7751102bb1cd09150800000000000000
+      internalID: 5877439525227140471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8449
+        y: 289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea293968a845ce2e0800000000000000
+      internalID: -2095206772694084946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gota de agua-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 6409
+        y: 279
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cc990a626f0f9d0800000000000000
+      internalID: -2742421527305008049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gota de agua-Sheet_0: 6694277459178457881
+      gota de agua-Sheet_1: 6818214087856862341
+      gota de agua-Sheet_10: 7706411122261924432
+      gota de agua-Sheet_11: -2581297901869133527
+      gota de agua-Sheet_12: 6097672926121936877
+      gota de agua-Sheet_13: -4131290531494516986
+      gota de agua-Sheet_14: 8440189130176799725
+      gota de agua-Sheet_15: -6995176374440642000
+      gota de agua-Sheet_16: 732287827033527645
+      gota de agua-Sheet_17: 1276943565150060309
+      gota de agua-Sheet_18: -8066808621009320422
+      gota de agua-Sheet_19: 1529235328602655379
+      gota de agua-Sheet_2: 3813260976448003032
+      gota de agua-Sheet_20: -6702341471869340608
+      gota de agua-Sheet_21: -6382172944096888486
+      gota de agua-Sheet_22: -6387680385943905118
+      gota de agua-Sheet_23: 3053086029676075244
+      gota de agua-Sheet_24: 3674063153614873726
+      gota de agua-Sheet_25: 6172132240119372513
+      gota de agua-Sheet_26: 1311690938059319142
+      gota de agua-Sheet_27: 5877439525227140471
+      gota de agua-Sheet_28: -2095206772694084946
+      gota de agua-Sheet_29: -2742421527305008049
+      gota de agua-Sheet_3: 8721947819339734597
+      gota de agua-Sheet_4: -2363784833784263956
+      gota de agua-Sheet_5: 4384734618077758435
+      gota de agua-Sheet_6: 7370169339806302358
+      gota de agua-Sheet_7: 8822533719814210300
+      gota de agua-Sheet_8: 981723421322981395
+      gota de agua-Sheet_9: -4217040725143854104
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 1e2398bb254cc68429d1ee98ea4207ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3703129235886786323
+    second: gusanitogorro-Sheet_0
+  - first:
+      213: -7638677658968369669
+    second: gusanitogorro-Sheet_1
+  - first:
+      213: 478182023332466182
+    second: gusanitogorro-Sheet_2
+  - first:
+      213: 4350272162806381906
+    second: gusanitogorro-Sheet_3
+  - first:
+      213: -5619956294695494284
+    second: gusanitogorro-Sheet_4
+  - first:
+      213: 7241855334282344116
+    second: gusanitogorro-Sheet_5
+  - first:
+      213: 8188981974265054403
+    second: gusanitogorro-Sheet_6
+  - first:
+      213: -2498467710105283179
+    second: gusanitogorro-Sheet_7
+  - first:
+      213: 3757668179878259124
+    second: gusanitogorro-Sheet_8
+  - first:
+      213: 4733506213395682912
+    second: gusanitogorro-Sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gusanitogorro-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 249
+        width: 157
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8ba997497db9cc0800000000000000
+      internalID: -3703129235886786323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanitogorro-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 244
+        width: 107
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf55a7ff327fdf590800000000000000
+      internalID: -7638677658968369669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanitogorro-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 244
+        width: 127
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e85b64408d2a600800000000000000
+      internalID: 478182023332466182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanitogorro-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 244
+        width: 117
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d385cbb754f5c30800000000000000
+      internalID: 4350272162806381906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanitogorro-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 239
+        width: 157
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d54799687e102b0800000000000000
+      internalID: -5619956294695494284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanitogorro-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 269
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6baaabe0d308460800000000000000
+      internalID: 7241855334282344116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanitogorro-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 239
+        width: 117
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c44520f7bb15a170800000000000000
+      internalID: 8188981974265054403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanitogorro-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 6214
+        y: 244
+        width: 132
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5951468ead8a35dd0800000000000000
+      internalID: -2498467710105283179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanitogorro-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7214
+        y: 244
+        width: 132
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9ae65fc4be52430800000000000000
+      internalID: 3757668179878259124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanitogorro-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 8214
+        y: 244
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066dd8762dac0b140800000000000000
+      internalID: 4733506213395682912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gusanitogorro-Sheet_0: -3703129235886786323
+      gusanitogorro-Sheet_1: -7638677658968369669
+      gusanitogorro-Sheet_2: 478182023332466182
+      gusanitogorro-Sheet_3: 4350272162806381906
+      gusanitogorro-Sheet_4: -5619956294695494284
+      gusanitogorro-Sheet_5: 7241855334282344116
+      gusanitogorro-Sheet_6: 8188981974265054403
+      gusanitogorro-Sheet_7: -2498467710105283179
+      gusanitogorro-Sheet_8: 3757668179878259124
+      gusanitogorro-Sheet_9: 4733506213395682912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

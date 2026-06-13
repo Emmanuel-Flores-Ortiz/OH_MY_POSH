@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 6635bdf3b8521b543ad3dd7a9fc209a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9082752910438482328
+    second: gusanoIdle-Sheet_0
+  - first:
+      213: -309293277800997727
+    second: gusanoIdle-Sheet_1
+  - first:
+      213: 7920592866671157228
+    second: gusanoIdle-Sheet_2
+  - first:
+      213: 3122644125715113273
+    second: gusanoIdle-Sheet_3
+  - first:
+      213: -4485072871251558234
+    second: gusanoIdle-Sheet_4
+  - first:
+      213: -5197712633858733281
+    second: gusanoIdle-Sheet_5
+  - first:
+      213: 8977902132822005999
+    second: gusanoIdle-Sheet_6
+  - first:
+      213: -1405203732795566512
+    second: gusanoIdle-Sheet_7
+  - first:
+      213: -7557608118109378117
+    second: gusanoIdle-Sheet_8
+  - first:
+      213: 2250364847893912889
+    second: gusanoIdle-Sheet_9
+  - first:
+      213: -3830762121281295053
+    second: gusanoIdle-Sheet_10
+  - first:
+      213: -7794434827995263235
+    second: gusanoIdle-Sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gusanoIdle-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 244
+        width: 67
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891c45946ab6c0e70800000000000000
+      internalID: 9082752910438482328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanoIdle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 244
+        width: 67
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac514d076b25bbf0800000000000000
+      internalID: -309293277800997727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanoIdle-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 239
+        width: 72
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef5d644f399bed60800000000000000
+      internalID: 7920592866671157228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanoIdle-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 234
+        width: 72
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935a531b94cd55b20800000000000000
+      internalID: 3122644125715113273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanoIdle-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 244
+        width: 77
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a04f4d8cf1d1c1c0800000000000000
+      internalID: -4485072871251558234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanoIdle-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 5239
+        y: 244
+        width: 82
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b4a4ee5e30ed7b0800000000000000
+      internalID: -5197712633858733281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanoIdle-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 6239
+        y: 244
+        width: 82
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8d31f3c6ae79c70800000000000000
+      internalID: 8977902132822005999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanoIdle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 7239
+        y: 244
+        width: 77
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056daad66a6bf7ce0800000000000000
+      internalID: -1405203732795566512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanoIdle-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 8239
+        y: 234
+        width: 72
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb96b70657bfd1790800000000000000
+      internalID: -7557608118109378117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanoIdle-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 9239
+        y: 239
+        width: 72
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d1ebdf7e6ea3f10800000000000000
+      internalID: 2250364847893912889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanoIdle-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 10239
+        y: 244
+        width: 67
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33da10e952666dac0800000000000000
+      internalID: -3830762121281295053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gusanoIdle-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 11239
+        y: 244
+        width: 67
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfec86412da94d390800000000000000
+      internalID: -7794434827995263235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 33a325fcf54eb4445abddd1023cfd083
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gusanoIdle-Sheet_0: 9082752910438482328
+      gusanoIdle-Sheet_1: -309293277800997727
+      gusanoIdle-Sheet_10: -3830762121281295053
+      gusanoIdle-Sheet_11: -7794434827995263235
+      gusanoIdle-Sheet_12: -511256106
+      gusanoIdle-Sheet_2: 7920592866671157228
+      gusanoIdle-Sheet_3: 3122644125715113273
+      gusanoIdle-Sheet_4: -4485072871251558234
+      gusanoIdle-Sheet_5: -5197712633858733281
+      gusanoIdle-Sheet_6: 8977902132822005999
+      gusanoIdle-Sheet_7: -1405203732795566512
+      gusanoIdle-Sheet_8: -7557608118109378117
+      gusanoIdle-Sheet_9: 2250364847893912889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

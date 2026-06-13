@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 68ac6a4aa1c83934da11159d3dd3a171
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8985106487667126560
+    second: Gusanosalto-Sheet_0
+  - first:
+      213: -3744476742718584600
+    second: Gusanosalto-Sheet_1
+  - first:
+      213: -7609841966194663907
+    second: Gusanosalto-Sheet_2
+  - first:
+      213: 7607996800244678635
+    second: Gusanosalto-Sheet_3
+  - first:
+      213: 832324645574642507
+    second: Gusanosalto-Sheet_4
+  - first:
+      213: -4063149778054291870
+    second: Gusanosalto-Sheet_5
+  - first:
+      213: 9017547240373851440
+    second: Gusanosalto-Sheet_6
+  - first:
+      213: -6716334551718879818
+    second: Gusanosalto-Sheet_7
+  - first:
+      213: -8167022028059896851
+    second: Gusanosalto-Sheet_8
+  - first:
+      213: -8810993177657634095
+    second: Gusanosalto-Sheet_9
+  - first:
+      213: 3812591649552906563
+    second: Gusanosalto-Sheet_10
+  - first:
+      213: 2290841522745057528
+    second: Gusanosalto-Sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gusanosalto-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 244
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee0b8d214d7e4380800000000000000
+      internalID: -8985106487667126560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusanosalto-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 239
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e80c88dd32f80cc0800000000000000
+      internalID: -3744476742718584600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusanosalto-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 244
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e5b18ec09646690800000000000000
+      internalID: -7609841966194663907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusanosalto-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 244
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef74eae7c8059960800000000000000
+      internalID: 7607996800244678635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusanosalto-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 244
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b8745fad20d8b00800000000000000
+      internalID: 832324645574642507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusanosalto-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 5259
+        y: 264
+        width: 97
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eddd9edcacc97c0800000000000000
+      internalID: -4063149778054291870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusanosalto-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 6274
+        y: 259
+        width: 102
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03599c72073c42d70800000000000000
+      internalID: 9017547240373851440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusanosalto-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 7314
+        y: 244
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd1d145f49cac2a0800000000000000
+      internalID: -6716334551718879818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusanosalto-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 8314
+        y: 244
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de313b87cb8e8ae80800000000000000
+      internalID: -8167022028059896851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusanosalto-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 9339
+        y: 244
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d29357336019b580800000000000000
+      internalID: -8810993177657634095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusanosalto-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 10339
+        y: 239
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349b831c7eb09e430800000000000000
+      internalID: 3812591649552906563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gusanosalto-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 11339
+        y: 239
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f02fef3a34bacf10800000000000000
+      internalID: 2290841522745057528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gusanosalto-Sheet_0: -8985106487667126560
+      Gusanosalto-Sheet_1: -3744476742718584600
+      Gusanosalto-Sheet_10: 3812591649552906563
+      Gusanosalto-Sheet_11: 2290841522745057528
+      Gusanosalto-Sheet_2: -7609841966194663907
+      Gusanosalto-Sheet_3: 7607996800244678635
+      Gusanosalto-Sheet_4: 832324645574642507
+      Gusanosalto-Sheet_5: -4063149778054291870
+      Gusanosalto-Sheet_6: 9017547240373851440
+      Gusanosalto-Sheet_7: -6716334551718879818
+      Gusanosalto-Sheet_8: -8167022028059896851
+      Gusanosalto-Sheet_9: -8810993177657634095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
